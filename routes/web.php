@@ -21,3 +21,7 @@ use Illuminate\Support\Facades\Route;
 Route::group(['namspace'=>'backend'], function(){
     Route::resource('dashboard','backend\DashboardController');
 });
+
+Route::group(['namespace'=>'frontend'], function(){
+    Route::resource('home', 'HomeController');
+});
