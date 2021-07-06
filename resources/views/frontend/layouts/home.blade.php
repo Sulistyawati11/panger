@@ -147,58 +147,6 @@
   </div>
 </section><!-- End Why Us Section -->
 
-<!-- ======= Skills Section ======= -->
-<section id="skills" class="skills">
-  <div class="container" data-aos="fade-up">
-
-    <div class="row">
-      <div class="col-lg-6 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
-        <img src="{{ asset('frontend/assets/img/skills.png')}}" class="img-fluid" alt="">
-      </div>
-      <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left" data-aos-delay="100">
-        <h3>Voluptatem dignissimos provident quasi corporis voluptates</h3>
-        <p class="fst-italic">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-          magna aliqua.
-        </p>
-
-        <div class="skills-content">
-
-          <div class="progress">
-            <span class="skill">HTML <i class="val">100%</i></span>
-            <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-            </div>
-          </div>
-
-          <div class="progress">
-            <span class="skill">CSS <i class="val">90%</i></span>
-            <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-            </div>
-          </div>
-
-          <div class="progress">
-            <span class="skill">JavaScript <i class="val">75%</i></span>
-            <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-            </div>
-          </div>
-
-          <div class="progress">
-            <span class="skill">Photoshop <i class="val">55%</i></span>
-            <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </div>
-
-  </div>
-</section><!-- End Skills Section -->
 
 <!-- ======= Services Section ======= -->
 <section id="services" class="services section-bg">
@@ -461,66 +409,6 @@
   </div>
 </section><!-- End Team Section -->
 
-<!-- ======= Pricing Section ======= -->
-<section id="pricing" class="pricing">
-  <div class="container" data-aos="fade-up">
-
-    <div class="section-title">
-      <h2>Pricing</h2>
-      <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-    </div>
-
-    <div class="row">
-
-      <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
-        <div class="box">
-          <h3>Free Plan</h3>
-          <h4><sup>$</sup>0<span>per month</span></h4>
-          <ul>
-            <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
-            <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
-            <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
-            <li class="na"><i class="bx bx-x"></i> <span>Pharetra massa massa ultricies</span></li>
-            <li class="na"><i class="bx bx-x"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-          </ul>
-          <a href="#" class="buy-btn">Get Started</a>
-        </div>
-      </div>
-
-      <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-        <div class="box featured">
-          <h3>Business Plan</h3>
-          <h4><sup>$</sup>29<span>per month</span></h4>
-          <ul>
-            <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
-            <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
-            <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
-            <li><i class="bx bx-check"></i> Pharetra massa massa ultricies</li>
-            <li><i class="bx bx-check"></i> Massa ultricies mi quis hendrerit</li>
-          </ul>
-          <a href="#" class="buy-btn">Get Started</a>
-        </div>
-      </div>
-
-      <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
-        <div class="box">
-          <h3>Developer Plan</h3>
-          <h4><sup>$</sup>49<span>per month</span></h4>
-          <ul>
-            <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
-            <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
-            <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
-            <li><i class="bx bx-check"></i> Pharetra massa massa ultricies</li>
-            <li><i class="bx bx-check"></i> Massa ultricies mi quis hendrerit</li>
-          </ul>
-          <a href="#" class="buy-btn">Get Started</a>
-        </div>
-      </div>
-
-    </div>
-
-  </div>
-</section><!-- End Pricing Section -->
 
 <!-- ======= Frequently Asked Questions Section ======= -->
 <section id="faq" class="faq section-bg">
